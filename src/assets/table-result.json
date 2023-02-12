@@ -1,0 +1,57 @@
+[{
+  "url": "https://mobilni-telefony.heureka.cz/apple-iphone-12-mini-64gb",
+  "duration": null,
+  "extractor": null,
+  "debugLink": null,
+  "listingResult": {
+    "productName": "Apple iPhone 12 mini 64GB",
+    "image": "https://im9.cz/iR/importprodukt-orig/8fa/8fae1f48392222f161872986960e2e04--mmf400x400.jpg",
+    "shops": [{
+      "name": "DATART.cz",
+      "link": "https://www.heureka.cz/exit/datart-cz/3976336842/?z=2&p=1&tb=1",
+      "inStock": "?",
+      "productPrice": {"value": "?", "currency": null},
+      "deliveryPrice": {"value": "?", "currency": null}
+    }, {
+      "name": "Mobil Pohotovost",
+      "link": "https://www.heureka.cz/exit/mp-cz/3976718465/?z=2&p=2&tb=1",
+      "inStock": "?",
+      "productPrice": {"value": "?", "currency": null},
+      "deliveryPrice": {"value": "?", "currency": null}
+    }, {
+      "name": "iStage.cz",
+      "link": "https://www.heureka.cz/exit/istage-cz/4137411457/?z=2&p=3&tb=1",
+      "inStock": "?",
+      "productPrice": {"value": "?", "currency": null},
+      "deliveryPrice": {"value": "?", "currency": null}
+    }]
+  }
+}, {
+  "url": "https://chytre-hodinky.heureka.cz/apple-watch-series-6-44mm/",
+  "duration": null,
+  "extractor": null,
+  "debugLink": null,
+  "listingResult": {
+    "productName": "Apple Watch Series 6 44mm",
+    "image": "https://im9.cz/iR/importprodukt-orig/7a8/7a8ac0ece32105a080e446ed5957dd99--mmf400x400.jpg",
+    "shops": [{
+      "name": "Smarty.cz",
+      "link": "https://www.heureka.cz/exit/smarty-cz/4047312314/?z=2&p=1&tb=1",
+      "inStock": "?",
+      "productPrice": {"value": "?", "currency": null},
+      "deliveryPrice": {"value": "?", "currency": null}
+    }, {
+      "name": "CZC.cz",
+      "link": "https://www.heureka.cz/exit/czc-cz/4020842430/?z=2&p=2&tb=1",
+      "inStock": "?",
+      "productPrice": {"value": "?", "currency": null},
+      "deliveryPrice": {"value": "?", "currency": null}
+    }, {
+      "name": "iStage.cz",
+      "link": "https://www.heureka.cz/exit/istage-cz/4177587872/?z=2&p=3&tb=1",
+      "inStock": "?",
+      "productPrice": {"value": "?", "currency": null},
+      "deliveryPrice": {"value": "?", "currency": null}
+    }]
+  }
+}]
